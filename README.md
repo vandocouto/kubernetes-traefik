@@ -34,6 +34,7 @@ Passo 2 - Implementando o Traefik utlizando o DaemonSet
     * Por outro lado, o DaemonSet permite que você acesse qualquer Nó diretamente.
 
     
+    
     kubectl apply -f traefik-ds.yaml
     
  
