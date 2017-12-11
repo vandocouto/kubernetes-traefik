@@ -33,8 +33,9 @@ Passo 2 - Implementando o Traefik utlizando o DaemonSet
     * Com ele é possível executar exclusivamente um Serviço em um conjunto dedicado de máquinas.
     * Por outro lado, o DaemonSet permite que você acesse qualquer Nó diretamente.
     
+
     
-    <pre>kubectl apply -f traefik-ds.yaml</pre>
+<pre>kubectl apply -f traefik-ds.yaml</pre>
     
  
 ### Deploy Nginx 
