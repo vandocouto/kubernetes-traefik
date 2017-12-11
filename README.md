@@ -1,4 +1,4 @@
-# Configurando um Treafik em um Cluster Kubernetes
+# Configurando o Treafik no Cluster Kubernetes
 
 ### Cenário:
 
