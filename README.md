@@ -35,6 +35,7 @@ Passo 2 - Implementando o Traefik utlizando o DaemonSet
 
     
     
+    
     kubectl apply -f traefik-ds.yaml
     
  
